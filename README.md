@@ -197,11 +197,10 @@ Check:
 ## 🔄 Updating
 
 ```bash
-cd YOUR_REPOSITORY
+cd ~/INSTAHELP-BY-YORVOXX
 git pull
 chmod +x b.sh
 ./b.sh
-```
 
 ## 🔒 Security
 
