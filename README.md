@@ -34,9 +34,10 @@ A Bash-based interactive console for Termux on Android with a terminal UI, accou
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_REPOSITORY
-```
+git clone https://github.com/sisirey12-rgb/INSTAHELP-BY-YORVOXX.git
+cd INSTAHELP-BY-YORVOXX
+chmod +x b.sh
+./b.sh
 
 Make the script executable:
 
