@@ -11,7 +11,7 @@ import sys
 # === CONFIGURATION === #
 NUM_THREADS = min(1000000, (os.cpu_count() or 4) * 10000)
 BURST_REQUESTS = 10
-ATTACK_DURATION = 35
+ATTACK_DURATION = 1800
 PROXY_FILE = "proxies.txt"
 FAKE_UA_LIST = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
